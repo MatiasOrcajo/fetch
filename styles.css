@@ -1,0 +1,23 @@
+.users-container{
+    width: 400px;
+    height: 450px;
+    border-radius: 20px;background-color: rgb(207, 207, 207);
+    box-shadow: 0px 5px 24px black;
+}
+
+.users-container img{
+    max-width: 100%;
+    border-radius: 50%;
+    height: 200px;
+}
+
+.users-container h5{
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+.display{
+    opacity: 0;
+    visibility: hidden;
+    order: 1;
+}
